@@ -15,5 +15,4 @@ env/
 *.pot
 *.py[cod]
 db.sqlite3
-media/
 staticfiles/
